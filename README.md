@@ -4,6 +4,7 @@ Python Libraries I want to remember
 ## Database
 * SQLAlchemy (ORM) [GitHub](https://github.com/zzzeek/sqlalchemy) [Docs](http://docs.sqlalchemy.org/en/latest/)
 * TinyDB (micro db) [GitHub](https://github.com/msiemens/tinydb) [Docs](https://tinydb.readthedocs.io/en/latest/)
+* pyspatialite (Spatialite/SQLite) [Github](https://github.com/lokkju/pyspatialite)
 
 ## Formats
 * openpyxl (Excel xlsx, no xlsb) [Bitbucket](http://bitbucket.org/openpyxl/openpyxl/src) [Docs](https://openpyxl.readthedocs.io/en/stable/index.html)
