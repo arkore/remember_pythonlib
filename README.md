@@ -11,6 +11,7 @@ Python Libraries I want to remember
 * simpledbf (dBASE .DBF v III to 5) [GitHub](https://github.com/rnelsonchem/simpledbf)
 * PIL (Python Image Library) [Docs](https://pillow.readthedocs.io/en/5.1.x/)
 * python-geojson (GeoJSON) [GitHub](https://github.com/frewsxcv/python-geojson)
+* pysal Spatial Analytics Library [Docs](http://pysal.readthedocs.io/en/latest/index.html)
 
 ## Math and Datastructures
 * pyquaternion (Quaternions) [GitHub](https://github.com/KieranWynn/pyquaternion) [Docs](http://kieranwynn.github.io/pyquaternion/)
