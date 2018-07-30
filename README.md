@@ -3,6 +3,7 @@ Python Libraries I want to remember
 
 ## Database
 * SQLAlchemy (ORM) [GitHub](https://github.com/zzzeek/sqlalchemy) [Docs](http://docs.sqlalchemy.org/en/latest/)
+* Peewee (ORM) [GitHub](https://github.com/coleifer/peewee) [Docs](http://docs.peewee-orm.com/en/latest/index.html)
 * TinyDB (micro db) [GitHub](https://github.com/msiemens/tinydb) [Docs](https://tinydb.readthedocs.io/en/latest/)
 * pyspatialite (Spatialite/SQLite) [Github](https://github.com/lokkju/pyspatialite)
 
@@ -29,7 +30,16 @@ Python Libraries I want to remember
 * OneLogin SAML2 (SAML Auth)
 * Jose (JWT Java Web Tokens) [GitHub](https://github.com/mpdavis/python-jose) [Docs](https://python-jose.readthedocs.io/en/latest/)
 
+## Integration API's
+* Open Web Standards for Maps [Docs](http://geopython.github.io/OWSLib/)
+* RPi.GPIO [Docs](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)
+
 ## Compilers
 * Nuitka (compiles to C) [Web](http://nuitka.net/) [Docs](http://nuitka.net/doc/user-manual.html)
 * PyInstaller (bootstrap packager)
 * Pypy (JIT compiler)
+
+## Extra Documentation Links
+* WFS standard [Link](http://docs.geoserver.org/latest/en/user/services/wfs/reference.html)
+* GDAL GitHub [Link](https://github.com/OSGeo/gdal)
+
