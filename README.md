@@ -13,6 +13,7 @@ Python Libraries I want to remember
 * PIL (Python Image Library) [Docs](https://pillow.readthedocs.io/en/5.1.x/)
 * python-geojson (GeoJSON) [GitHub](https://github.com/frewsxcv/python-geojson)
 * pysal Spatial Analytics Library [Docs](http://pysal.readthedocs.io/en/latest/index.html)
+* pyshp (ESRI Shapefile pure python) [GitHub](https://github.com/GeospatialPython/pyshp)
 
 ## Math and Datastructures
 * pyquaternion (Quaternions) [GitHub](https://github.com/KieranWynn/pyquaternion) [Docs](http://kieranwynn.github.io/pyquaternion/)
