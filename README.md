@@ -26,6 +26,7 @@ Python Libraries I want to remember
 * PySide2 (LGPL)
 
 ## Web technology
+* OWSLib (WMS/WFS Client) [GitHub](https://github.com/geopython/OWSLib)
 * Zeep (SOAP Client) [GitHub](https://github.com/mvantellingen/python-zeep) [Docs](http://docs.python-zeep.org/en/master/index.html)
 * Selenium
 * OneLogin SAML2 (SAML Auth)
