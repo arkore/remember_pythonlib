@@ -2,7 +2,7 @@
 Python Libraries I want to remember
 
 ## Database
-* SQLAlchemy (ORM) [GitHub](https://github.com/zzzeek/sqlalchemy) [Docs](http://docs.sqlalchemy.org/en/latest/)
+* SQLAlchemy (ORM) [GitHub](https://github.com/zzzeek/sqlalchemy) [Docs](http://docs.sqlalchemy.org/en/latest/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 * Peewee (ORM) [GitHub](https://github.com/coleifer/peewee) [Docs](http://docs.peewee-orm.com/en/latest/index.html)
 * TinyDB (micro db) [GitHub](https://github.com/msiemens/tinydb) [Docs](https://tinydb.readthedocs.io/en/latest/)
 * pyspatialite (Spatialite/SQLite) [Github](https://github.com/lokkju/pyspatialite)
@@ -10,18 +10,19 @@ Python Libraries I want to remember
 ## Formats
 * openpyxl (Excel xlsx, no xlsb) [Bitbucket](http://bitbucket.org/openpyxl/openpyxl/src) [Docs](https://openpyxl.readthedocs.io/en/stable/index.html)
 * simpledbf (dBASE .DBF v III to 5) [GitHub](https://github.com/rnelsonchem/simpledbf)
-* PIL (Python Image Library) [Docs](https://pillow.readthedocs.io/en/5.1.x/)
-* python-geojson (GeoJSON) [GitHub](https://github.com/frewsxcv/python-geojson)
+* PIL (Python Image Library) [Docs](https://pillow.readthedocs.io/en/5.1.x/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+* python-geojson (GeoJSON) [GitHub](https://github.com/frewsxcv/python-geojson) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 * pysal Spatial Analytics Library [Docs](http://pysal.readthedocs.io/en/latest/index.html)
 * pyshp (ESRI Shapefile pure python) [GitHub](https://github.com/GeospatialPython/pyshp)
+* lxml (Best XML lib) [Docs](https://lxml.de/tutorial.html) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Math and Datastructures
 * pyquaternion (Quaternions) [GitHub](https://github.com/KieranWynn/pyquaternion) [Docs](http://kieranwynn.github.io/pyquaternion/)
 * sortedcontainers (Self-sorting containers) [GitHub](https://github.com/grantjenks/python-sortedcontainers/) [Docs](http://www.grantjenks.com/docs/sortedcontainers/)
-* NetowrkX (graph style networks) [Docs](https://networkx.github.io/)
+* NetowrkX (graph style networks) [Docs](https://networkx.github.io/) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## UI
-* wxPython (LGPL) [Docs](https://docs.wxpython.org/index.html)
+* wxPython (LGPL) [Docs](https://docs.wxpython.org/index.html) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 * PyQt (GPL or commercial)
 * PySide2 (LGPL)
 
