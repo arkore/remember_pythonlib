@@ -46,3 +46,6 @@ Python Libraries I want to remember
 * WFS standard [Link](http://docs.geoserver.org/latest/en/user/services/wfs/reference.html)
 * GDAL GitHub [Link](https://github.com/OSGeo/gdal)
 
+## Licence Help
+* Markdown Licence Badges [Link](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+* Licence Compatability [Link](https://janelia-flyem.github.io/licenses.html)
