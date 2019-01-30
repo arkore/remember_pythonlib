@@ -26,6 +26,7 @@ Python Libraries I want to remember
 * wxPython (LGPL) [Docs](https://docs.wxpython.org/index.html) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 * PyQt (GPL or commercial)
 * PySide2 (LGPL)
+* Click [Github](https://github.com/pallets/click/) [Docs](https://click.palletsprojects.com/en/7.x/) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Web technology
 * OWSLib (WMS/WFS Client) [GitHub](https://github.com/geopython/OWSLib)
