@@ -6,6 +6,7 @@ Python Libraries I want to remember
 * Peewee (ORM) [GitHub](https://github.com/coleifer/peewee) [Docs](http://docs.peewee-orm.com/en/latest/index.html)
 * TinyDB (micro db) [GitHub](https://github.com/msiemens/tinydb) [Docs](https://tinydb.readthedocs.io/en/latest/)
 * pyspatialite (Spatialite/SQLite) [Github](https://github.com/lokkju/pyspatialite)
+* ZODB (native python object database) [Github](https://github.com/zopefoundation/ZODB) [Docs](http://www.zodb.org/en/latest/index.html)  [![License: ZPL](https://img.shields.io/badge/license-ZPL-blue.svg)](https://github.com/zopefoundation/ZODB/blob/master/LICENSE.txt)
 
 ## Formats
 * openpyxl (Excel xlsx, no xlsb) [Bitbucket](http://bitbucket.org/openpyxl/openpyxl/src) [Docs](https://openpyxl.readthedocs.io/en/stable/index.html)
