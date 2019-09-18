@@ -44,6 +44,9 @@ Python Libraries I want to remember
 * PyInstaller (bootstrap packager)
 * Pypy (JIT compiler)
 
+## Packaging and Python Admin
+* pipreqs (create requirements.txt for you via inspection) [GitHub](https://github.com/bndr/pipreqs)
+
 ## Extra Documentation Links
 * WFS standard [Link](http://docs.geoserver.org/latest/en/user/services/wfs/reference.html)
 * GDAL GitHub [Link](https://github.com/OSGeo/gdal)
