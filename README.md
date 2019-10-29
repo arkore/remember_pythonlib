@@ -27,6 +27,7 @@ Python Libraries I want to remember
 * PyQt (GPL or commercial)
 * PySide2 (LGPL)
 * Click [Github](https://github.com/pallets/click/) [Docs](https://click.palletsprojects.com/en/7.x/) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+* Kivy [Github](https://github.com/kivy/kivy) [Docs](https://kivy.org/doc/stable/)
 
 ## Web technology
 * OWSLib (WMS/WFS Client) [GitHub](https://github.com/geopython/OWSLib)
